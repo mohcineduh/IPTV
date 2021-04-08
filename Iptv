@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1,SNrt radio
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
+#EXTINF:-1,hit radio
+http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3.m3u
+#EXTINF:-1,medi1
+http://live.medi1.com/medi1#.mp3
+#EXTINF:-1,Fm
+http://broadcast.infomaniak.net/chadafm-high.mp3.m3u
+#EXTINF:-1,aswat radio
+http://broadcast.ice.infomaniak.ch/aswat-high.mp3
+#EXTINF:-1,cap radio 
+http://eu8.fastcast4u.com:5548/;
+#EXTINF:-1,medi hits
+http://streaming-hd.ovea.com/Hits
+#EXTINF:-1,medina fm
+http://medinafm.ice.infomaniak.ch/medinafm-64.mp3
+#EXTINF:-1,Medradio
+http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
+#EXTINF:-1,radio mars 
+http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
+#EXTINF:-1,
