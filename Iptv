@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,SNrt radio
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
 #EXTINF:-1,hit radio
@@ -20,4 +19,19 @@ http://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
 #EXTINF:-1,radio mars 
 http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
-#EXTINF:-1,
+#EXTINF:-1,Chada Fm
+http://icepe12.infomaniak.ch/chadafm-high.mp3
+#EXTINF:-1,radio plus
+http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
+#EXTINF:-1,rai fr
+https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3
+#EXTINF:-1,izlan
+http://server.izlanzik.org:8000/stream/3/
+#EXTINF:-1,hit maroc
+http://mgharba.ice.infomaniak.ch/mgharba-128.mp3
+#EXTINF:-1,radio mfm
+http://streamer.eagrpservices.com/audio/mfmradio.ogg
+#EXTINF:-1,M6
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
+#EXTINF:-1,tanger
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8
