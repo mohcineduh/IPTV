@@ -1,25 +1,23 @@
 #EXTM3U
-
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 1
+#EXTINF:-1,AD Sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 2
+#EXTINF:-1,AD Sports 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 3
+#EXTINF:-1,AD Sports 3
 https://tvae.ercdn.net/adsport3/adsport3_1080p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 4
+#EXTINF:-1,AD Sports 4
 https://tvae.ercdn.net/adsport4/adsport4_1080p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 1
+#EXTINF:-1,DubaiSport 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 2
+#EXTINF:-1,DubaiSport 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 3
+#EXTINF:-1,DubaiSport 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,
-#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 1
+#EXTINF:-1,KSA Sport 1
 https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 2
+#EXTINF:-1,KSA Sport 2
 https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,Dubai Racing
+#EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
 
 
