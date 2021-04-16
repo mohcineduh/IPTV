@@ -1,37 +1,25 @@
 #EXTM3U
-#EXTINF:-1,SNrt radio
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
-#EXTINF:-1,hit radio
-http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3.m3u
-#EXTINF:-1,medi1
-http://live.medi1.com/medi1#.mp3
-#EXTINF:-1,Fm
-http://broadcast.infomaniak.net/chadafm-high.mp3.m3u
-#EXTINF:-1,aswat radio
-http://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1,cap radio 
-http://eu8.fastcast4u.com:5548/;
-#EXTINF:-1,medi hits
-http://streaming-hd.ovea.com/Hits
-#EXTINF:-1,medina fm
-http://medinafm.ice.infomaniak.ch/medinafm-64.mp3
-#EXTINF:-1,Medradio
-http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
-#EXTINF:-1,radio mars 
-http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
-#EXTINF:-1,Chada Fm
-http://icepe12.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1,radio plus
-http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
-#EXTINF:-1,rai fr
-https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3
-#EXTINF:-1,izlan
-http://server.izlanzik.org:8000/stream/3/
-#EXTINF:-1,hit maroc
-http://mgharba.ice.infomaniak.ch/mgharba-128.mp3
-#EXTINF:-1,radio mfm
-http://streamer.eagrpservices.com/audio/mfmradio.ogg
-#EXTINF:-1,M6
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
-#EXTINF:-1,tanger
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8
+
+#EXTINF:-1, group-title=”SPORT TV”,AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,AD Sports 3
+https://tvae.ercdn.net/adsport3/adsport3_1080p.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,AD Sports 4
+https://tvae.ercdn.net/adsport4/adsport4_1080p.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,
+#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 1
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 2
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
+
+
